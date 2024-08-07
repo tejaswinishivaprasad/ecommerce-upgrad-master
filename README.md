@@ -25,7 +25,7 @@ GET [api/addresses](http://localhost:8080/api/addresses): Retrieves all the stor
 POST [/addresses](http://localhost:8080/api/addresses): Add a new address.
 
 Orders
-POST [/order](http://localhost:8080/api/orders): Place a new order. 
+POST [/orders](http://localhost:8080/api/orders): Place a new order. 
 
 
 # Setup and Installation
