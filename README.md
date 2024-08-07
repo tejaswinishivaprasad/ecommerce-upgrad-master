@@ -1,0 +1,1 @@
+## This ecommerce Spring boot application exposes endpoints to REACT frontend 
